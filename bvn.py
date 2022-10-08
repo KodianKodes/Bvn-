@@ -19,7 +19,7 @@ def validate(entry):
     payload = { 'q':new }
     files = { 'q':new}
     headers = {
-        'Authorization': 'Bearer sk_test_8549721191670666fc4e554f71ccaf5f939c9f10', 
+        'Authorization': '## Api key inputations', 
         
     }
 
